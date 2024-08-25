@@ -1,0 +1,13 @@
+numpy
+pandas
+librosa
+parselmouth
+pydub
+mutagen
+scipy
+matplotlib
+seaborn
+scikit-learn
+noisereduce
+tqdm
+statsmodels
